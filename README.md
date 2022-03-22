@@ -1,5 +1,9 @@
 ### Hi 👋, I'm Muhammad Musa Qureshi
 
+Full Stack Engineer
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=musa05-dev)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 🔭 I’m currently working on NFT based projects
 - 🌱 I’m currently learning Solana
 - 👯 I’m looking to collaborate on Open source projects
