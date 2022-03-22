@@ -2,7 +2,7 @@
 
 Full Stack Engineer
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=musa05-dev)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=musa95-dev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on NFT based projects
 - 🌱 I’m currently learning Solana
